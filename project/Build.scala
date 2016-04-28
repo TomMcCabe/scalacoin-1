@@ -2,7 +2,7 @@ import sbt._
 import Keys._ 
 object BitcoinSBuild extends Build {
 
-  val appName = "bitcoin-s"
+  val appName = "bitcoins"
   val appV = "0.0.1" 
   val scalaV = "2.11.7"
   val organization = "org.bitcoins"
